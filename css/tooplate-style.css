@@ -38,7 +38,7 @@ p {
   margin: 0;
 }
 
-.tm-container {
+.tm-container {			/*	width for all*/
   max-width: 1200px;
   width: 100%;
   margin-left: auto;
