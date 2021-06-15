@@ -4,7 +4,7 @@ body {
   font-size: 25px;
   color: #ffffff;
   -webkit-font-smoothing: antialiased;
-  padding: 80px;
+  padding: 10px;
   overflow-x: hidden;
 }
 
@@ -40,7 +40,6 @@ p {
 
 .tm-container {			/*	width for all*/
   max-width: 1200px;
-  min-width: 100px;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -191,9 +190,9 @@ img {
   color: #ffffff;
 }
 
-.tm-text-gray-light {
+/*.tm-text-gray-light {
   color: #999999;
-}
+} */
 
 .tm-bg-primary-light {          	/*цвет правого блока с текстом(красный)*/
   background-color: #8B0000;
@@ -203,9 +202,9 @@ img {
   background-color: #996666;
 }
 
-/*.tm-bg-secondary {
+.tm-bg-secondary {
   background-color: #8B0000;
-} */
+}
 
 .tm-mt {
   margin-top: 30px;
